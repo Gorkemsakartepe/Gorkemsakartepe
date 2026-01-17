@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem</h1>
-<h3 align="center">Hello, I'm gorkem I'm 20 years old, I've been dealing with front-end software for 4 years, I studied at my university in kütahya dumlupınar university I live in Eskisehir, there are many subjects that I will develop in software because the software pool is big :) I wish everyone good work</h3>
+<h3 align="center">Hello, I'm gorkem I'm 22 years old, I've been dealing with front-end software for 4 years, I studied at my university in kütahya dumlupınar university I live in Eskisehir, there are many subjects that I will develop in software because the software pool is big :) I wish everyone good work</h3>
 
 - 🌱 I’m currently learning **React and Nextjs and other programming languages**
 
